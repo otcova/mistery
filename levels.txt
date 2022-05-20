@@ -1,0 +1,4 @@
+plot Dino: Excel -> for of, split, Number(x), ellipse, fill, backgroud, fill
+plot Pi: replaceAll, string[]
+Epicycles: 
+walls: 
